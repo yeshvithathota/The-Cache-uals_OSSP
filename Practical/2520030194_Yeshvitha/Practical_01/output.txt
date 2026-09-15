@@ -1,0 +1,8 @@
+yeshvitha@LAPTOP-RBHE9466:~/The-Cache-uals_OSSP/Practical/2520030194_Yeshvitha/Practical_01$ ./program
+Enter Command: ls
+Parent PID: 2676
+Child PID: 2677
+Parent PID: 2676
+Program.c  input.txt  output.txt  program
+Child process completed.Enter Command: Parent PID: 2660
+Child process completed.
